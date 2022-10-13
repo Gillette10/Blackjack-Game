@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Gillette10/CHAT-APP]
-- Live Site URL: [https://github.com/Gillette10/Blackjack-Game]
+- Solution URL: [https://github.com/Gillette10/Blackjack-Game]
+- Live Site URL: [https://blackjack-game-by-gillette.netlify.app/]
 
 ## My process
 
