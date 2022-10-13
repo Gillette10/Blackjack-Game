@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&family=Silkscreen&display=swap');
+
+body {
+    background-image: url(./black.jpg);
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 1.6rem;
+    margin: 0 auto;
+    width: 90%;
+}
+
+h1 {
+    color: goldenrod;
+    font-family: 'Silkscreen', cursive;
+    font-size: 2.8rem;
+}
+
+#message-el {
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+
+#sum-el {
+    margin-bottom: 2em;
+}
+ 
+ button {
+color: #016f32;
+background-color: goldenrod;
+border: 0;
+padding: 1em 1.3em;
+font-weight: bolder;
+letter-spacing: .3em;
+font-size: medium;
+margin: .5em 0;
+border-radius: 10px;
+cursor: pointer;
+width: 210px;
+}
+
+button:hover {
+    opacity: .8;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 426px) {
+    body {
+        font-size: 2rem;
+    }
+
+    h1 {
+        font-size: 3.2rem;
+    }
+    button {
+        letter-spacing: .4em;
+        font-size: 1.3rem;
+        }
+        
+}
